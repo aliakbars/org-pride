@@ -1,8 +1,8 @@
-# Organizational Pride & Psychological Safety
+# Uncovering Organisational Pride and Psychological Safety from Glassdoor Reviews
 
 Authors: Ali Septiandri, Sanja Šćepanović, Marios Constantinides, Licia Capra, Daniele Quercia
 
-Analysis of organizational pride (OP) and psychological safety (PS) in US companies using Glassdoor data.
+Analysis of organisational pride (OP) and psychological safety (PS) in US companies using Glassdoor data.
 
 Our contributions:
 1. We developed a state-of-the-art deep-learning Natural Language Processing (NLP) framework that accurately captures OP and PS at company-level.
